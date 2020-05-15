@@ -17,7 +17,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener{
     BottomNavigationView bottomNavigationView;
     Fragment fragment;
-
+String Tag="lndkekd";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

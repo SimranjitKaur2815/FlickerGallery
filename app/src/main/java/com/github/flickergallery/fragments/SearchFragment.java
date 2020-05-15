@@ -96,6 +96,7 @@ public class SearchFragment extends Fragment {
                 search=charSequence.toString();
             }
 
+
             @Override
             public void afterTextChanged(Editable editable) {
                 Log.e(TAG, "afterTextChanged: "+editable );
