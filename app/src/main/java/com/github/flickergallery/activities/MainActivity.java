@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     BottomNavigationView bottomNavigationView;
     Fragment fragment;
 String Tag="lndkekd";
+String a="fgjgbhmjm";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
